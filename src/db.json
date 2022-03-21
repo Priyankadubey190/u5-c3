@@ -1,0 +1,148 @@
+{
+    "Books": [
+        {
+            "title":"Physics-1",
+            "imageUrl":"https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "5"
+            ],
+            "author":"K N Sharma",
+            "price": 1234,
+            "section": "Mystery",
+            "isbnNumber": 1234567
+         },
+         {
+            "title":"Physics-2",
+            "imageUrl":"https://images.pexels.com/photos/3747279/pexels-photo-3747279.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "4"
+            ],
+            "author":"K N Sharma",
+            "price": 1234,
+            "section": "Mystery",
+            "isbnNumber": 1234567
+         },
+         {
+            "title":"Physics-3",
+            "imageUrl":"https://images.pexels.com/photos/2228586/pexels-photo-2228586.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "3"
+            ],
+            "author":"K N Sharma",
+            "price": 1234,
+            "section": "Mystery",
+            "isbnNumber": 1234567
+         },
+         {
+            "title":"Chemistry-1",
+            "imageUrl":"https://images.pexels.com/photos/3990897/pexels-photo-3990897.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "4"
+            ],
+            "author":"Book Author",
+            "price": 1234,
+            "section": "Technology",
+            "isbnNumber": 1234587
+         },
+         {
+            "title":"Chemistry-2",
+            "imageUrl":"https://images.pexels.com/photos/6954514/pexels-photo-6954514.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "multiple reviews here"
+            ],
+            "author":"yzyz",
+            "price": 1234,
+            "section": "Technology",
+            "isbnNumber": 1234577
+         },
+         {
+            "title":"Chemistry-3",
+            "imageUrl":"https://images.pexels.com/photos/3622632/pexels-photo-3622632.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "multiple reviews here"
+            ],
+            "author":"zxzx",
+            "price": 1234,
+            "section": "Technology",
+            "isbnNumber": 1234557
+         },
+         {
+            "title":"Math-1",
+            "imageUrl":"https://images.pexels.com/photos/5095897/pexels-photo-5095897.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "6"
+            ],
+            "author":"Book Author",
+            "price": 774,
+            "section": "Mythology",
+            "isbnNumber": 1234527
+         },
+         {
+            "title":"Math-2",
+            "imageUrl":"https://images.pexels.com/photos/4769488/pexels-photo-4769488.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "multiple reviews here"
+            ],
+            "author":"Book Author",
+            "price": 1234,
+            "section": "Mythology",
+            "isbnNumber": 1234567
+         },
+         {
+            "title":"Math-3",
+            "imageUrl":"https://images.pexels.com/photos/2228582/pexels-photo-2228582.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "multiple reviews here"
+            ],
+            "author":"Book Author",
+            "price": 1234,
+            "section": "Mythologyt",
+            "isbnNumber": 1234567
+         },
+         {
+            "title":"English-1",
+            "imageUrl":"https://images.pexels.com/photos/3747395/pexels-photo-3747395.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "multiple reviews here"
+            ],
+            "author":"Book Author",
+            "price": 1234,
+            "section": "history",
+            "isbnNumber": 1234567
+         },
+         {
+            "title":"English-2",
+            "imageUrl":"https://images.pexels.com/photos/8164813/pexels-photo-8164813.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "multiple reviews here"
+            ],
+            "author":"Book Author",
+            "price": 1234,
+            "section": "history",
+            "isbnNumber": 1234567
+         },
+         {
+            "title":"English-3",
+            "imageUrl":"https://images.pexels.com/photos/6475044/pexels-photo-6475044.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "description":"Book desc",
+            "reviews":[
+                "multiple reviews here"
+            ],
+            "author":"Book Author",
+            "price": 1234,
+            "section": "history",
+            "isbnNumber": 1234567
+         }
+    ]
+}
